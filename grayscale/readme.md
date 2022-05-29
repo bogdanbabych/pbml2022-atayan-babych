@@ -1,0 +1,1 @@
+grayscale images go here
